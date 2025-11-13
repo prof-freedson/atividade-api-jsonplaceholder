@@ -1,7 +1,7 @@
 // app/index.tsx
 import { Link } from "expo-router";
 import { ScrollView, Text, TouchableOpacity, View } from "react-native";
-// oi
+
 export default function HomeScreen() {
   return (
     <ScrollView style={{ flex: 1, backgroundColor: "#f3f4f6" }}>
